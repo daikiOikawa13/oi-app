@@ -6,7 +6,10 @@ export const products = [
     hedding1:'AAA',
     hedding2:'',
     hedding3:'',
-    coverimage:'./assets/img/phone-cover.jpg'
+    coverimage:'./assets/img/phone-cover.jpg',
+    heddingtext1:'AAA',
+    heddingtext2:'AAA',
+    heddingtext3:'AAA'
   },
   {
     name:'Phone mini',
@@ -15,7 +18,10 @@ export const products = [
     hedding1:'',
     hedding2:'',
     hedding3:'',
-    coverimage:'./assets/img/phone-cover.jpg'
+    coverimage:'./assets/img/phone-cover.jpg',
+    heddingtext1:'AAA',
+    heddingtext2:'AAA',
+    heddingtext3:'AAA'
   },
   {
     name:'Phone Standard',
@@ -23,7 +29,10 @@ export const products = [
     description:'~~~~~~',
     hedding1:'',
     hedding2:'',
-    hedding3:''
+    hedding3:'',
+    heddingtext1:'AAA',
+    heddingtext2:'AAA',
+    heddingtext3:'AAA'
   },
   {
     name:'Phone spcial',
@@ -31,7 +40,10 @@ export const products = [
     description:'~~~~~~',
     hedding1:'',
     hedding2:'',
-    hedding3:''
+    hedding3:'',
+    heddingtext1:'AAA',
+    heddingtext2:'AAA',
+    heddingtext3:'AAA'
   }
   
 ]
